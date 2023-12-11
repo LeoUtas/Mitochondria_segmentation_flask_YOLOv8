@@ -42,7 +42,6 @@ The application documentation of <a href="https://docs.ultralytics.com/"> YOLOv8
 -   HTML
 -   CSS (Bootstrap)
 -   Docker
--   Github Action
 
 ### Data source
 
